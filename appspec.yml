@@ -3,3 +3,5 @@ os: linux
 files:
   - source: ./demo.txt
     destination: /
+  - source: ./index.html
+    destination: /var/www/html
